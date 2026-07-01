@@ -1,4 +1,15 @@
 # SI-2026 Analog IC Design
+This repository documents my summer-internship project of Analog Integrated-Circuit Design under the mentorship of **Dr. Saroj Rout** , **Mr Prasant Kumar Swain** , **Dr. Santunu Sarangi** in Silicon University, conducted in May - June, 2026 . 
+
+# **COURSE OUTCOME**
+
+- Design of Analog-IC using electronic system.
+- Deriving all the IC specifications using the circuit Analysis.
+- A good understanding of MOS devices and Technology.
+- Proficiency in analog circuit and design analysis.
+- Having a good mastery in some tools--ngspice, xschem, magic.
+
+## Daily Report
 ## Day 1
 The first day of the training program provided an introduction to the course, highlighting its objectives, structure, and expected learning outcomes. We were introduced to the USB microphone system, where we learned about its architecture, operating principles, and the process of capturing and processing audio signals. The session also covered the fundamentals of Linux and Git, emphasizing the importance of Linux command-line usage and Git version control in engineering workflows. To evaluate our foundational understanding, a basic circuit quiz was conducted on topics such as Ohm's law, resistive circuits, and voltage-current relationships. Overall, the day established a strong foundation by combining hardware concepts, essential software tools, and theoretical knowledge, preparing us for the subsequent technical sessions.
 ## Day 2
