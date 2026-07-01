@@ -1,0 +1,12 @@
+* SPICE3 file created from DA_NMOS_CM.ext - technology: sky130A
+
+X0 CS CS GND GND sky130_fd_pr__nfet_01v8 ad=5 pd=7 as=5 ps=7 w=5 l=2
+X1 GND CS CS GND sky130_fd_pr__nfet_01v8 ad=5 pd=7 as=5 ps=7 w=5 l=2
+X2 GND CS toM6 GND sky130_fd_pr__nfet_01v8 ad=5 pd=7 as=5 ps=7 w=5 l=2
+X3 CS CS GND GND sky130_fd_pr__nfet_01v8 ad=5 pd=7 as=5 ps=7 w=5 l=2
+X4 toM6 CS GND GND sky130_fd_pr__nfet_01v8 ad=5 pd=7 as=10 ps=14 w=5 l=2
+X5 toM6 CS GND GND sky130_fd_pr__nfet_01v8 ad=5 pd=7 as=5 ps=7 w=5 l=2
+X6 GND CS CS GND sky130_fd_pr__nfet_01v8 ad=5 pd=7 as=5 ps=7 w=5 l=2
+X7 GND CS toM6 GND sky130_fd_pr__nfet_01v8 ad=10 pd=14 as=5 ps=7 w=5 l=2
+C0 toM6 GND 8.00104f
+C1 CS GND 21.2067f
