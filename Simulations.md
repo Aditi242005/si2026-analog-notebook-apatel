@@ -45,4 +45,86 @@ This experiment demonstrates how to use the **Signal Generator (W1)** in **Scopy
 - The Oscilloscope (CH1) confirmed the waveform characteristics (frequency, amplitude, and phase).  
 - Channel 2 remained flat, validating that no signal was applied.
 
-# 
+# Circuit Simulations Result
+## Ngspice  
+### NMOS ID - VGS
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0db94773-460e-46e9-b957-b5a92f09fbea" />
+
+### NMOS ID - VDS   
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91819ac1-716b-4022-bb4a-cec620b502c2" />
+
+### RC Transient Response 
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9a6f0d3a-765c-4546-a73b-0b7eb68c9626" />
+
+### RC Frequency Response  
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/24cee330-1883-4174-823a-e66cfe27b3dd" />
+  
+### Voltage Divider DC 
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/744cef5c-0833-4ed6-a3a8-26a66bef25be" />
+  
+### Voltage Divider AC  
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e9c6e6ca-896c-4e18-a246-459cf7207582" />
+  
+### Voltage Divider TRAN   
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/25565122-544e-4acb-8c93-11dad2625e75" />
+  
+## Xschem
+### Cascode Current Mirror  PMOS  
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2cadb789-c6ca-4cf2-915b-51cf280ec3b2" />
+      
+- Current through V3   
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7594e9d6-9166-45bd-baa3-72c6a635a143" />
+    
+- Vgs1
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/10360f2b-b16c-47aa-899d-d13c5ab44250" />
+    
+- Vgs2  
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb2d09e6-4f2a-4f25-b86a-14edeaa3a477" />
+      
+### Cascode Current Mirror NMOS
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d349417e-b620-41a6-bc27-4ff59b0902b7" />
+    
+- Current Through V1  
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e1837848-ae4e-4804-98ef-2cf923484ef0" />
+    
+- Vgs1  
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/463b04a6-af7d-4a46-888c-b1d02152bce7" />
+    
+- Vgs2
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/971d353c-6d5f-4cf2-806c-06be5ff687de" />
+  
+### Differential Amplifier DC Response 
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/339bf74a-a626-4e07-936f-2f3912a5adf7" />
+
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1d7d500f-2b7e-4284-bd8e-5c77f5f2f6bd" />
+### Differential Amplifier TRAN Response 
+- <img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/8fb5e728-591d-4ab8-bea4-42a24b5ec094" />
+
+- Vinp - Vinn
+  <img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/7521baa9-5b74-44e5-b70f-de37fe3e1331" />
+
+ - Vout
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c45ab498-1696-41f9-92a2-b28f03f6816f" />
+
+### Differential Amplifier AC Response   
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f07c8a23-8a6b-4564-8be2-221cbdf9e466" />
+  <img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/89ed977a-82c9-459d-9bc2-6670c60f8a86" />  
+  <img width="1918" height="1011" alt="image" src="https://github.com/user-attachments/assets/44df62a1-c941-4eab-8a81-a4579c33385c" />
+  <img width="1915" height="1013" alt="image" src="https://github.com/user-attachments/assets/6f9f3ee2-0946-471e-a9e0-e50544447eb7" />
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
