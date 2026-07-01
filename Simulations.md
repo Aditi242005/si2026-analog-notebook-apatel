@@ -120,6 +120,27 @@ This experiment demonstrates how to use the **Signal Generator (W1)** in **Scopy
  
 ### MOSFET Parameter Extraction  
 <img width="1918" height="1000" alt="image" src="https://github.com/user-attachments/assets/1cfcf72d-3f76-4935-8075-f6ace0042486" />  
+
+#### Post-Processing Equations    
+
+- Kp = (2/5) × (d_rt_id)²  
+- Vt = 1.2 − (rt_id / d_rt_id)  
+- γ = (0.7292 − 0.5178) / (√0.8461 − √0.846)
+ 
+#### Extracted Values
+- Kp ≈ 1.80 × 10⁻⁴  
+- Vt ≈ 0.518 V  
+- γ ≈ 0.482
+   
+#### Results
+
+| Experiment                     | Parameter(s)           | Value(s) |
+|--------------------------------|------------------------|----------|
+| Level-1 vs Level-49           | Threshold voltage, γ   | Vt ≈ 0.514 V, γ ≈ 0.737 |
+| Vt Extraction (Method A)      | Threshold voltage      | Vt ≈ 0.518 V |
+| Vt Extraction (Method B)      | Threshold voltage      | Vt ≈ 0.729 V |
+| Overall Calculation           | Kp, Vt, γ              | Kp ≈ 1.8 × 10⁻⁴, Vt ≈ 0.518 V, γ ≈ 0.482 |  
+
 <img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/5fc12687-4d5e-49eb-9481-b6dc9003d71d" />  
 <img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/3848029f-ae60-4674-bf82-8e3ff79150b6" />
 
