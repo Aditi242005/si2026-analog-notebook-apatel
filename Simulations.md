@@ -118,6 +118,11 @@ This experiment demonstrates how to use the **Signal Generator (W1)** in **Scopy
 <img width="1918" height="1007" alt="image" src="https://github.com/user-attachments/assets/c128f6e7-47c3-4a6e-8ba3-6aee4fc96969" />  
 <img width="1918" height="1007" alt="image" src="https://github.com/user-attachments/assets/25908498-7c3c-446b-917b-064ddb9213a0" />  
  
+### MOSFET Parameter Extraction  
+<img width="1918" height="1000" alt="image" src="https://github.com/user-attachments/assets/1cfcf72d-3f76-4935-8075-f6ace0042486" />  
+<img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/5fc12687-4d5e-49eb-9481-b6dc9003d71d" />  
+<img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/3848029f-ae60-4674-bf82-8e3ff79150b6" />
+
 
 
 
