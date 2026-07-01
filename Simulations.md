@@ -111,6 +111,15 @@ This experiment demonstrates how to use the **Signal Generator (W1)** in **Scopy
   <img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/89ed977a-82c9-459d-9bc2-6670c60f8a86" />  
   <img width="1918" height="1011" alt="image" src="https://github.com/user-attachments/assets/44df62a1-c941-4eab-8a81-a4579c33385c" />
   <img width="1915" height="1013" alt="image" src="https://github.com/user-attachments/assets/6f9f3ee2-0946-471e-a9e0-e50544447eb7" />
+### MIC Amplifier
+<img width="1918" height="1002" alt="image" src="https://github.com/user-attachments/assets/5769bef9-7059-40a9-ae78-6ba0d4fa51c7" />   
+<img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/8c85df19-520e-437c-99bb-e28766b894e5" />  
+<img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/2372513b-9aff-4024-a801-32c7e2fa4b77" />    
+<img width="1918" height="1007" alt="image" src="https://github.com/user-attachments/assets/c128f6e7-47c3-4a6e-8ba3-6aee4fc96969" />  
+<img width="1918" height="1007" alt="image" src="https://github.com/user-attachments/assets/25908498-7c3c-446b-917b-064ddb9213a0" />  
+ 
+
+
 
 
 
